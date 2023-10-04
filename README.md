@@ -1,4 +1,4 @@
-# sql-challenge module9challenge
+# sql-challenge-module9challenge
 
 This folder contains solutions to the Pewlett Hackard SQL challenge (Module 9)
 
